@@ -1,7 +1,7 @@
 {
   "name": "google-jwt-promise",
-  "version": "1.0.0",
-  "description": "Google JWT Oauth-token retrieval with proimse",
+  "version": "1.0.1",
+  "description": "Google JWT Oauth-token retrieval with promise",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
