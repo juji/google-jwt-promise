@@ -1,0 +1,28 @@
+{
+  "name": "google-jwt-promise",
+  "version": "1.0.0",
+  "description": "Google JWT Oauth-token retrieval with proimse",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:juji/google-jwt-promise.git"
+  },
+  "keywords": [
+    "Google-jwt",
+    "jwt",
+    "promise"
+  ],
+  "author": "jujiyangasli@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juji/google-jwt-promise/issues"
+  },
+  "homepage": "https://github.com/juji/google-jwt-promise",
+  "dependencies": {
+    "jhttp-client": "^1.1.7",
+    "jwt-simple": "^0.5.0"
+  }
+}
